@@ -1,0 +1,3 @@
+Note: strings data.txt | grep "==="
+Password:
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

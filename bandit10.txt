@@ -1,0 +1,3 @@
+Note: cat data.txt | grep == | grep base64 -d
+Password:
+VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg

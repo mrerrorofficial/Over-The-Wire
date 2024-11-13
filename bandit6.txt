@@ -1,0 +1,4 @@
+Note:   cd /
+	find -size 33c -user bandit7 -group bandit6 | grep password
+Password:
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

@@ -1,0 +1,3 @@
+Note: ssh bandit14@localhost -i sshkey.private
+Password:
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

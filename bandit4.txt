@@ -1,0 +1,3 @@
+Note: file ./* | grep "ASCII text"
+Password:
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

@@ -1,0 +1,4 @@
+Note:   find -size 1033c
+	ls -a
+Password:
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
